@@ -11,7 +11,7 @@
 , "directories" :   { "lib" : "./lib/git" }
 , "engines" :       { "node" : ">=0.4.0" }
 , "dependencies":   {
-    "mime": "1.2.9",
+    "mime": "1.4.1",
     "async": "0.2.9"
 }
 , "devDependencies":{ "nodeunit" : ">=0.5.1" }
